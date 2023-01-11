@@ -1,0 +1,21 @@
+# ad lib story
+
+print("Let's play Madlibs!")
+p = input("Type in a place: ")
+a = input("Type in an adjective: ")
+name = input("Type in a name: ")
+n = input("Now, type in a noun: ")
+f = input("Type in a feeling: ")
+a2 = input("Type in another adjective: ")
+n2 = input("Type in a noun: ")
+pn = input("Plural noun: ")
+n3 = input("Type in another noun: ")
+v = input("Type in a verb (in the past tense): ")
+a3 = input("Another adjective: ")
+print("Here's the story!")
+
+print("Once upon a time, at the", p, ", there was a", a, "ghost named", name, ".")
+print("Ever year on Halloween,", name, "would watch the trick-or-treaters on the street, feeling", f)
+print("and wishing they could join them. They haunted an", a2, n2, "and even though it was abandoned, they")
+print("always kept a bowl of", pn, "out. One day, a", n3, v, "on the front door. They looked", a3, "but")
+print(name, "was excited to make a friend. The end!")
